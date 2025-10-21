@@ -1,6 +1,6 @@
 # Računalniški praktikum
-Ctrl + C - kopiraj
-Ctrl + V - Prilepi
-Ctrl + A - Izberi vse
+Ctrl + C - Kopiraj,
+Ctrl + V - Prilepi,
+Ctrl + A - Izberi vse.
 
 dopolni README
