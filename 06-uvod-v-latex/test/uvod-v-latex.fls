@@ -1,0 +1,30 @@
+PWD c:\Users\rw01050\RP\racunalniski-praktikum\06-uvod-v-latex\test
+INPUT C:\Users\rw01050\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\rw01050\RP\racunalniski-praktikum\06-uvod-v-latex\test\uvod-v-latex.tex
+OUTPUT uvod-v-latex.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT .\uvod-v-latex.aux
+INPUT .\uvod-v-latex.aux
+INPUT uvod-v-latex.aux
+OUTPUT uvod-v-latex.aux
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+OUTPUT uvod-v-latex.pdf
+INPUT C:\Users\rw01050\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT uvod-v-latex.aux
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
