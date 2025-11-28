@@ -358,6 +358,82 @@ INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymath.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfpu.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfpu.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgfplots\pgfplots.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\pgfplots\pgfplots.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.revision.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-luatex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotscore.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\pgfplotslibrary.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryfpu.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructure.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsliststructureext.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsarray.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsmatrix.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\numtable\pgfplotstableshared.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\liststructure\pgfplotsdeque.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotsbinary.data.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotsutil.verb.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\pgflibrarypgfplots.surfshading.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotscolormap.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\util\pgfplotscolor.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotsstackedplots.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotsplothandlers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotsmeshplothandler.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotsmeshplotimage.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.scaling.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotscoordprocessing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.errorbars.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.markers.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplotsticks.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\pgfplots.paths.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\modules\pgfmoduledecorations.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathmorphing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\decorations\pgflibrarydecorations.pathreplacing.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.contourlua.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryplotmarks.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\libraries\pgflibraryplotmarks.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.external.code.tex
+INPUT C:\Program Files\MiKTeX\tex\generic\pgfplots\libs\tikzlibrarypgfplots.external.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\libraries\tikzlibraryexternal.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\libraries\tikzlibraryexternal.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\pgf\frontendlayer\libraries\tikzlibraryexternal.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\atveryend\atveryend.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\atveryend-ltx.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzexternalshared.code.tex
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\rw01050\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\pgfplotsthemetol.sty
+INPUT C:\Users\rw01050\AppData\Roaming\MiKTeX\tex\latex\beamertheme-metropolis\pgfplotsthemetol.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT .\prosojnice.aux
@@ -474,6 +550,71 @@ INPUT C:\Users\rw01050\AppData\Roaming\MiKTeX\fonts\tfm\public\sansmathaccent\ma
 INPUT C:\Users\rw01050\AppData\Roaming\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT C:\Users\rw01050\AppData\Roaming\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcss1000.tfm
+INPUT .\prosojnice\4-stolpci-slike.tex
+INPUT .\prosojnice\4-stolpci-slike.tex
+INPUT prosojnice\4-stolpci-slike.tex
+INPUT .\slike\fig-1.png
+INPUT .\slike\fig-1.png
+INPUT .\slike\fig-1.png
+INPUT .\slike\fig-1.png
+INPUT .\slike\fig-1.png
+INPUT .\slike\fig-1.png
+INPUT .\slike\fig-1.png
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\rw01050\AppData\Roaming\MiKTeX\fonts\tfm\public\sansmathaccent\mathkerncmssi12.tfm
+INPUT .\slike\fig-2.png
+INPUT .\slike\fig-2.png
+INPUT .\slike\fig-2.png
+INPUT .\slike\fig-2.png
+INPUT .\slike\fig-2.png
+INPUT .\slike\fig-2.png
+INPUT .\slike\fig-2.png
+INPUT .\slike\fig-3.png
+INPUT .\slike\fig-3.png
+INPUT .\slike\fig-3.png
+INPUT .\slike\fig-3.png
+INPUT .\slike\fig-3.png
+INPUT .\slike\fig-3.png
+INPUT .\slike\fig-3.png
+INPUT .\slike\fig-4.png
+INPUT .\slike\fig-4.png
+INPUT .\slike\fig-4.png
+INPUT .\slike\fig-4.png
+INPUT .\slike\fig-4.png
+INPUT .\slike\fig-4.png
+INPUT .\slike\fig-4.png
+INPUT .\slike\fig-5.png
+INPUT .\slike\fig-5.png
+INPUT .\slike\fig-5.png
+INPUT .\slike\fig-5.png
+INPUT .\slike\fig-5.png
+INPUT .\slike\fig-5.png
+INPUT .\slike\fig-5.png
+INPUT .\slike\fig-6.png
+INPUT .\slike\fig-6.png
+INPUT .\slike\fig-6.png
+INPUT .\slike\fig-6.png
+INPUT .\slike\fig-6.png
+INPUT .\slike\fig-6.png
+INPUT .\slike\fig-6.png
+INPUT .\slike\fig-7.png
+INPUT .\slike\fig-7.png
+INPUT .\slike\fig-7.png
+INPUT .\slike\fig-7.png
+INPUT .\slike\fig-7.png
+INPUT .\slike\fig-7.png
+INPUT .\slike\fig-7.png
+INPUT .\prosojnice\5-beamer-tabele.tex
+INPUT .\prosojnice\5-beamer-tabele.tex
+INPUT prosojnice\5-beamer-tabele.tex
+INPUT .\prosojnice\6-zaporedja-algebra-grupe.tex
+INPUT .\prosojnice\6-zaporedja-algebra-grupe.tex
+INPUT prosojnice\6-zaporedja-algebra-grupe.tex
 OUTPUT prosojnice.nav
 OUTPUT prosojnice.toc
 OUTPUT prosojnice.snm
@@ -522,6 +663,8 @@ INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmss8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi12.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi12.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmssi8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
